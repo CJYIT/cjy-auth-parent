@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: service-system
+  profiles:
+    active: dev #需要依赖的配置文件
